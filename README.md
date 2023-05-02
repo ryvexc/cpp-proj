@@ -18,7 +18,7 @@ Clone this repository first
 
 To change into your project name, just
 
-`$ mv cpp-project-template <your-project-name>`
+`$ mv cpp-proj <your-project-name>`
 
 And now, open your <b>Visual Studio Code</b> and hit the Run button or <b>Right Click > Run Code</b>
 
